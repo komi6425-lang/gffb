@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://komi6425-lang.github.io/Bzm-Application/sitemap.xml
